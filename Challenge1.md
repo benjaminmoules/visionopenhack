@@ -11,6 +11,7 @@ Machine Learning solutions are complex and custom models require time, expertise
 ## Prerequisites
 
 * Team has a setup for sharing code and working in Jupyter
+* BEN: I need to do that
 * Team has access to the Gear catalog dataset (link and instructions provided in Challenge 0, Data Downloads)
 * Team has at least 1 Custom Vision Account. Create <a href="https://customvision.ai" target="_blank">Here</a>
 
